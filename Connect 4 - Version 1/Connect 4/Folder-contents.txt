@@ -1,0 +1,1 @@
+This folder contains all the necessary source code and output files of the project Connect 4 , the source code of this project is strictly for viewing and not recreating or modifying and recreating on any one's name , if found re-creating or modyfying the whole project on one's name , strict action will be taken because of copying of source code from me !
