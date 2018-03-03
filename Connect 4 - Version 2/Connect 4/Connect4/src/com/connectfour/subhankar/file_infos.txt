@@ -1,3 +1,7 @@
 Controller.java - Has most of the controll related methods
 Game.FXML - Has the UI layout in a FXML format
 Main.java - The main file which binds the other two files
+
+Subhankar Karmakar
+E.C.E. Dept. - Asansol Engineering College [ 2017 - 2021 ] 
+Project developed in Feb
