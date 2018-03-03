@@ -1,2 +1,6 @@
 This folder contains the java distritubale file which could be run in any platform , if that platform has the latest version of JRE installed
 Also this file is meant for distribution , if no one can compile the source code and produce this jar file back !
+
+Subhankar Karmakar
+E.C.E. Dept. - Asansol Engineering College [ 2017 - 2021 ] 
+Project developed in Feb
