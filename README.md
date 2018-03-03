@@ -5,4 +5,9 @@ code and the artifact as the .JAR file . The modification of source code and tak
 name or informing me , is strictly illegal and if any one found coping the source code , then strict plagiarism actions will be taken , So
 without copying , enjoy the source code only for educational purposes. This project also needs no further development except the version 2
 of this project , version 2 of this connect 4 game is not fully smooth , so any one interested can help to build the second version ,
+
 Thank you !
+
+Subhankar Karmakar
+E.C.E. Dept. - Asansol Engineering College [ 2017 - 2021 ] 
+Project developed in Feb
