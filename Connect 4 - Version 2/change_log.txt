@@ -1,1 +1,2 @@
-
+1. Added Feature for Adding Names and setting them , so instead of "Player One" / "Player Two" , there would be names of the players
+inserted in the text field , and hence that names would be shown
